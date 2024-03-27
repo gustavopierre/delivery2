@@ -1,1 +1,1 @@
-Delivery project in Flask and Python.
+Delivery project using Python and Flask.
