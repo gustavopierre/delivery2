@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 def read(filename):
     return [
-        req.strip() 
-        for req 
+        req.strip()
+        for req
         in open(filename).readlines()
     ]
 

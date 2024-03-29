@@ -1,2 +1,5 @@
 env
 __pycache__
+dist
+delivery2.egg-info
+build
