@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: delivery2
+Version: 0.1.0
+Summary: Delivery app
+License-File: LICENSE
+Requires-Dist: flask
+Provides-Extra: dev
+Requires-Dist: flask; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: flask-debugtoolbar; extra == "dev"
+Requires-Dist: flask-shell-ipython; extra == "dev"
+Requires-Dist: ipdb; extra == "dev"
+Requires-Dist: ipython; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-flask; extra == "dev"

@@ -1,4 +1,7 @@
 flask
+
+[dev]
+flask
 black
 flake8
 flask-debugtoolbar
