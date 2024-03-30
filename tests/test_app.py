@@ -10,4 +10,5 @@ def test_request_returns_404(client):
     assert client.get("/url_que_nao_existe").status_code == 404
 
 
-# def test_real_request(live_server): ## abre um browse headless e vai precisar do selenio.
+# def test_real_request(live_server):
+# abre um browse headless e vai precisar do selenio.
